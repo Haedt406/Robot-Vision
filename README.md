@@ -8,3 +8,5 @@ The group assignments 4, 5 ,6 . One of our teammate disappeared, after a few wee
 I forgot to get the code we used for those assignments, but I asked my teammate and hopefully he saved them since they where on the Audrino board.
 
 Good times.
+
+14 Feb 2024, Still havn't recieved the code for the final project. 
